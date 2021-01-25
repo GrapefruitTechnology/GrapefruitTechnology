@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-> ### 我是柚子
+> ### I'm Pomelo
 > * 广东财贸职业学院大数据专业大一学渣穷究于理，成就于工
 > * ⚡ `CTFer` && `安全开发` && `大数据分析`
 > * 💬扣扣邮箱，欢迎一起讨论学习：[912616606@qq.com](mailto:912616606@qq.com)
@@ -28,5 +28,5 @@
 > 
 > > _**做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊**_
 > 
-> ⭐️[柚子](https://github.com/GrapefruitTechnology)
+> ⭐️[Pomelo](https://github.com/GrapefruitTechnology)
 
