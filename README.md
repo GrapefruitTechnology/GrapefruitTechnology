@@ -1,6 +1,7 @@
 > # 那些最无聊的事情，才是最值得怀念的👋
-> ![GIF](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
-> 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 > ### 我是柚子
 > * 广东财贸职业学院大数据专业大一学渣穷究于理，成就于工
 > * ⚡ `CTFer` && `安全开发` && `大数据分析`
