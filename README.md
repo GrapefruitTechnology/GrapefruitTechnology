@@ -31,8 +31,6 @@
 > ### 正在做的事
 > `开网店赚钱` && `网易云` && `学习Python`
 > 
-> <img src="[https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://53669932-1301173105.cos.ap-guangzhou.myqcloud.com/202509100537470.png)" />
-
 > > _**做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊**_
 > 
 > ⭐️ From [Pomelo](https://github.com/GrapefruitTechnology)
