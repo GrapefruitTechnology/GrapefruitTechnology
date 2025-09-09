@@ -9,7 +9,7 @@
 > * ⭐个人博客：[兔兔那么可爱](http://silvercrow.ltd//)
 > * 微信公众号：`柚子科技工作室`
 > * 理工酸菜鱼 清远黄焖鸡
-> * 做自己爱做的事，照顾兔兔一辈子
+> * 做自己爱做的事，照顾她一辈子
 > 
 > ### 🛠技术栈 | Tech Stack
 * 💻  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,10 +29,10 @@
 > * 正在研究....
 
 > ### 正在做的事
-> `网站搭建` && `信息安全比赛` && `学习Python`
+> `开网店赚钱` && `网易云` && `学习Python`
 > 
-> ![专业网络修复]([https://camo.githubusercontent.com/b547b7e86ab3f24f3d0e28374119b2b6b4087fe2ac17c133f8ca361599bf2a65/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47726170656672756974546563686e6f6c6f67792673686f775f69636f6e733d74727565267468656d653d7261646963616c](https://github.com/GrapefruitTechnology))
-> 
+> <img align="right" alt="GIF" src="[https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://53669932-1301173105.cos.ap-guangzhou.myqcloud.com/202509100537470.png)" />
+
 > > _**做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊**_
 > 
 > ⭐️ From [Pomelo](https://github.com/GrapefruitTechnology)
