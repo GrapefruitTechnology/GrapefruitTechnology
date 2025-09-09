@@ -12,10 +12,17 @@
 > * 做自己爱做的事，照顾兔兔一辈子
 > 
 > ### 🛠技术栈 | Tech Stack
-> * 💻  ![Python](https://camo.githubusercontent.com/021899bb137367b4663ff8f005218e99337848d6c6d3d835048ebaa8af4c1714/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332d626c7565)  ![PHP](https://camo.githubusercontent.com/e6f6bd23dffc40bb9c321daa8bbad319ec3c54bb9ac9378025535e1dc4b89130/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d322d627269676874677265656e) ![Java](https://camo.githubusercontent.com/8084c05ea61084a30448c5b8f581d0389c7ab4fbf46593e3499e59809b2c6395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3333333333333f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936) ![Linux](https://camo.githubusercontent.com/e9da2a14c7b3f9cf9792e943d2a39fd0747cf8d940f640b9b1ae5e66868d7011/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3333333333333f7374796c653d666c6174266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234) ![Shell](https://camo.githubusercontent.com/f25ede3948c3fe2d3492cb09bb9508180eccd10b8e04f07e2c8491e65ba23268/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d5368656c6c2d6c6967687467726579)
-> * 🌐   ![HTML5](https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35)
-> * 🛢   ![MySQL](https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c) ![Redis](https://camo.githubusercontent.com/818bc92eac45803f5cca39e80223ae4a3c5f5e6fdd212771cfd830abc16e8090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d332d726564)
-> * 🔧 ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974) ![GitHub](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562) ![Markdown](https://camo.githubusercontent.com/cc37a8be0aeac01251fe533495a2b7f376eebbcc9017ebead3fed8121de5de43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e)
+* 💻  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+       ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+       ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+       ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+       ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+* 🌐   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+* 🛢   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+       ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+* 🔧  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+       ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+       ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 > * ...
 > 
 > ### 开源项目
